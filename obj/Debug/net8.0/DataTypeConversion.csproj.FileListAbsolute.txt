@@ -1,0 +1,15 @@
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.deps.json
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.runtimeconfig.json
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.dll
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.pdb
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfoInputs.cache
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfo.cs
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.csproj.CoreCompileInputs.cache
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.sourcelink.json
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.dll
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/refint/DataTypeConversion.dll
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.pdb
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.genruntimeconfig.cache
+/home/csyntax/C#/c#Projects/DataTypeConversion/DataTypeConversion/obj/Debug/net8.0/ref/DataTypeConversion.dll
